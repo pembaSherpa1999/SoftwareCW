@@ -1,0 +1,68 @@
+Software requirement specification (SRS)
+
+Software requirement specification includes various type of features that should be add in our software and the way in which that features can be implemented. Here the feature can be described as functional requirement where as how it can be done and its use can be described as nonfunctional and usability requirement.
+
+Naming form in given SRS table 
+
+Shortcut name 	Complete name
+Functional requirement 	FR
+Nonfunctional requirement 	NR
+Usability requirement 	UR
+
+
+
+ Software requirement Specification table
+
+User management 
+
+Requirement id 	Requirement Specification 	Moscow 
+FR 1.	System should create easy interface	Must have
+NR 1.1	System should display guide manual at the start of system  	Must have
+UR 1.1.	System should allow user for a few trial periods	Must have
+UR 1.2	System should display all the feature and product  	Should have
+FR 2.	System should permit any customer and product distributer to login by help of login page
+	Must have
+NR 2.1	Password should contain upper case, lower case alphabet, number
+	Must have
+UR 2. 1	User should be provided message of any type of error or specific information held in subscribed product or system
+	Must have
+UR 2. 2	User should be provided visibility option for password 
+	Should have
+FR 3.	System should allow any user to sign out if they want	Should have
+
+
+
+
+
+
+
+Account management 
+
+Requirement id 	Requirement Specification 	Moscow 
+FR 1.	System should allow any authorized person to check any detail of subscription 	Must have
+NR 1.1	System should notify subscription through email or SMS for conformation of account for Payment 	Must have
+UR 1.1	System should allow account manager to choose Notification methods through SMS or Email	Should have
+FR 2.	System should notify user for renew and any type of intrusion 	Must have
+NR 2.1.	System should notify users to renew their subscription within six-month floating period or of any intrusion through Email or SMS	Must have
+
+Payment management 
+
+Requirement id 	Requirement Specification 	Moscow 
+FR 1.	System should allow user to pay online or hand to hand  	Must have
+NR 1.1	System should notify user through SMS or email about payment detail	Must have
+NR 1.2	System should allow user detail for collection of amount 	Should have
+UR 1.1	System Should be easy to pay and collect product by customer  	Should have
+
+Operation management 
+
+Requirement id 	Requirement Specification 	Moscow 
+FR-1 	System should allow product distributer to check all permeated data of customer
+	Must have
+NR 1.1	System should provide only required permission for product distributer  	Must have
+UR 1.1	Product distributer can easily distribute product to customer 	Should have
+FR-2	System should contain product distributer to add any type of product along with its details and new schemes.	Must have
+NR 2.1 	System should notify customer about updates through SMS or email	Should have
+NR 2.2 	System should change the data in few time after adding new product and scheme information 	Should have
+UR 2.1	user should provide option to add new information 	Should have
+UR 2.2	User can easily employee the scheme for buying the required product	
+
